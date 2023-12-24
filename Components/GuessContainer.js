@@ -1,6 +1,7 @@
 import {SafeAreaView, Text, StyleSheet} from 'react-native';
 import CustomButton from './Core/Button';
 const GuessContainer = () => {
+  // Guess container done
   return (
     <SafeAreaView style={styles.container}>
       <SafeAreaView style={styles.guessValue}>
